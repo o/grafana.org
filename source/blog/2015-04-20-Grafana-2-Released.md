@@ -21,7 +21,7 @@ guide.
 ## What's New in Grafana v2.0
 
 - Read the [What's new In Grafana 2.0](http://docs.grafana.org/guides/whats-new-in-v2/) article
-- Try the updated [demo site](http//play.grafana.org)
+- Try the updated [demo site](http://play.grafana.org)
 - Watch the screencast [Whats new in Grafana 2.0](https://www.youtube.com/watch?v=FC13uhFRsVw&list=PLDGkOdUX1Ujo3wHw9-z5Vo12YLqXRjzg2&index=3)
 
 ## New Grafana screencast episodes
